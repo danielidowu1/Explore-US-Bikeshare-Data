@@ -9,16 +9,16 @@ The datasets used for this script contain bike share data for the first six mont
 
 ##### The data is provided by Motivate, which is a bike share system provider for many cities in the United States. The data files for all three cities contain the same six columns:
 
-Start Time
-End Time
-Trip Duration (in seconds)
-Start Station
-End Station
-User Type (Subscriber or Customer)
+Start Time \
+End Time\
+Trip Duration (in seconds) \
+Start Station \
+End Station \
+User Type (Subscriber or Customer) \
 The Chicago and New York City files also contain the following two columns:
 
-Gender
-Birth Year
+Gender \
+Birth Year \
 ### Questions explored
 The script answers the following questions about the bike share data:
 
