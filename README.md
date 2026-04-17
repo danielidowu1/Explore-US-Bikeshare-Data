@@ -18,7 +18,7 @@ User Type (Subscriber or Customer) \
 The Chicago and New York City files also contain the following two columns:
 
 Gender \
-Birth Year \
+Birth Year 
 ### Questions explored
 The script answers the following questions about the bike share data:
 
