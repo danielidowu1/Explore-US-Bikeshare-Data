@@ -15,8 +15,7 @@ Trip Duration (in seconds) \
 Start Station \
 End Station \
 User Type (Subscriber or Customer) \
-The Chicago and New York City files also contain the following two columns:
-
+### The Chicago and New York City files also contain the following two columns:
 Gender \
 Birth Year 
 ### Questions explored
