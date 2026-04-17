@@ -1,6 +1,6 @@
-import time  # Importing time module for time-related functions
-import pandas as pd  # Importing pandas for data manipulation and analysis
-from datetime import datetime as dt  # Importing datetime for date manipulation
+import time
+import pandas as pd
+from datetime import datetime as dt
 
 # Mapping city names to their respective CSV data files
 CITY_DATA = {
