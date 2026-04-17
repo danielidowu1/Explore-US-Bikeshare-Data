@@ -18,11 +18,13 @@ User Type (Subscriber or Customer)
 The Chicago and New York City files also contain the following two columns:
 
 Gender
+
 Birth Year
+
 Questions explored
 The script answers the following questions about the bike share data:
 
-What is the most popular month for start time?
+What is the most popular month for start time? 
 What is the most popular day of week (Monday, Tuesday, etc.) for start time?
 What is the most popular hour of day for start time?
 What is the total trip duration and average trip duration?
